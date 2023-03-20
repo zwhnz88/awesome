@@ -1,34 +1,66 @@
 <div align="center">
-	<a href="https://vshymanskyy.github.io/StandWithUkraine">
-		<img width="500" height="350" src="media/logo-ua.svg" alt="Awesome">
-		<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
-	</a>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<div>
-		<sub>Check out my latest app</sub>
-		<br>
-		<h2>
-			<a href="https://www.producthunt.com/posts/today-14">Today</a>
-			<br>
-			<sup>Quickly view your schedule in the macOS menu bar</sup>
-		</h2>
-	</div>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
+以下是目前10k+的热门awesome仓库：
+
+sindresorhus/awesome: Github stars 132k (各种有趣话题的精彩列表)
+vinta/awesome-python: Github stars 82.1k (一份精选的优秀Python框架列表)
+avelino/awesome-go: Github stars 54.1k (一份精选的优秀Go框架列表)
+awesome-selfhosted/awesome-selfhosted: Github stars 44.2k (可在本地托管的免费软件网络服务和web应用程序的列表)
+papers-we-love/papers-we-love: Github stars 40.2k (阅读和讨论来自计算机科学界的论文)
+wasabeef/awesome-android-ui: Github stars 37.8k (一份精选的Android UI/UX库列表)
+jaywcjlove/awesome-mac: Github stars 37.5k (收集各类高级软件)
+Hack-with-Github/Awesome-Hacking: Github stars 36.9k (为黑客收集的各种很赞的列表)
+sindresorhus/awesome-nodejs: Github stars 35.6k (有趣的Node.js包和资源)
+vsouza/awesome-ios: Github stars 34.8k (精选的iOS生态系统清单)
+MaximAbramchuck/awesome-interview-questions: Github stars 34k (一份精选的面试问题清单)
+prakhar1989/awesome-courses: Github stars 33.2k (为学习计算机科学的大学课程列表！)
+trimstray/the-book-of-secret-knowledge: Github stars 32.2k (一组鼓舞人心的清单)
+tiimgreen/github-cheat-sheet: Github stars 30.1k (Git和GitHub的酷特性列表。)
+521xueweihan/HelloGitHub: Github stars 29.5k (在开源沙滩上寻找珍珠)
+Solido/awesome-flutter: Github stars 27.5k (最好的Flutter资源清单)
+dypsilon/frontend-dev-bookmarks: Github stars 27.1k (前端web开发人员的资源集合。)
+binhnguyennus/awesome-scalability: Github stars 25.8k (可扩展、可靠和高性能的大规模系统的模式)
+fffaraz/awesome-cpp: Github stars 25.3k (一个C++（或C）框架的精彩清单)
+akullpp/awesome-java: Github stars 24.5k (精选java框架列表)
+ziadoz/awesome-php: Github stars 23.5k (一份精选的PHP库列表)
+herrbischoff/awesome-macos-command-line: Github stars 23.3k (用你的macOS终端做一些很赞的事情。)
+dkhamsing/open-source-ios-apps: Github stars 23.2k (开源iOS应用程序的列表)
+serhii-londar/open-source-mac-os-apps: Github stars 22.4k (macOS的开源应用程序列表。)
+brillout/awesome-react-components: Github stars 22.4k (React组件和库的管理列表。)
+LisaDziuba/Awesome-Design-Tools: Github stars 19.6k (最好的设计工具和插件)
+sindresorhus/awesome-electron: Github stars 19.6k (使用Electron创建应用程序的有用资源)
+alebcay/awesome-shell: Github stars 19.3k (精选命令行框架列表)
+matteocrippa/awesome-swift: Github stars 19.1k (精选的Swift库和资源的协作列表)
+MunGell/awesome-for-beginners: Github stars 19k (一个很赞的初学者项目列表)
+lukasz-madon/awesome-remote-job: Github stars 18.2k (一份精选的远程工作和资源清单)
+veggiemonk/awesome-docker: Github stars 17.7k (精选的docker资源和项目清单)
+viatsko/awesome-vscode: Github stars 17.1k (一个令人愉快的VS代码包和资源的列表)
+nikitavoloboev/my-mac-os: Github stars 16.8k (使macOS体验更加精彩的应用程序和工具列表)
+rust-unofficial/awesome-rust: Github stars 15.2k (Rust代码和资源的详细列表)
+ChristosChristofidis/awesome-deep-learning: Github stars 15.1k (精选深度学习教程列表)
+AllThingsSmitty/css-protips: Github stars 14.4k (一个帮助你掌握CSS技巧的技巧集)
+SpaceVim/SpaceVim: Github stars 13.7k (社区驱动的模块化vim发行版)
+Awesome-HarmonyOS/HarmonyOS: Github stars 13.6k (鸿蒙OS有关的精选项目清单。)
+Awesome-Windows/Awesome: Github stars 13.4k (精选windows应用程序和工具列表)
+ty4z2008/Qix: Github stars 13.2k (机器学习)
+facert/awesome-spider: Github stars 12.9k (爬虫集合)
+tmrts/go-patterns: Github stars 12.6k (Go语言惯用设计和应用程序模式的集合)
+thangchung/awesome-dotnet-core: Github stars 12.1k (一组很赞的.NET核心库)
+gztchan/awesome-design: Github stars 12k (设计资源)
+enaqx/awesome-pentest: Github stars 12k (一组渗透测试资源)
+xgrommx/awesome-redux: Github stars 11.7k (很赞的Redux示例和中间产品列表)
+kdeldycke/awesome-falsehood: Github stars 11.7k (那些程序员相信的谎言)
+chentsulin/awesome-graphql: Github stars 11.4k (GraphQL和Relay的清单)
+dexteryy/spellbook-of-modern-webdev: Github stars 11.4k (现代web开发api、库、工具、服务、最佳实践和最常用的学习资源)
+quozd/awesome-dotnet: Github stars 11.4k (很赞的.NET库，工具，框架和软件的集合)
+phanan/htaccess: Github stars 11.3k (有用的.htaccess片段的集合)
+alexpate/awesome-design-systems: Github stars 10.9k (很赞的设计系统集合)
+markets/awesome-ruby: Github stars 10.8k (包含了很赞的Ruby库、工具、框架和软件)
+iCHAIT/awesome-macOS: Github stars 10.7k (一份精选的macOS应用程序、软件、工具清单)
+DovAmir/awesome-design-patterns: Github stars 10.7k (软件和体系结构相关的设计模式的精选列表，涉及编程语言设计、软件体系结构、云架构、无服务器架构、微服务、分布式系统、物联网、大数据等)
+mhinz/vim-galore: Github stars 10.7k (Vim 从入门到精通)
+posquit0/Awesome-CV: Github stars 10.6k (申请工作时很赞的简历模板)
+keon/awesome-nlp: Github stars 10.3k (专门用于自然语言处理（NLP）的资源列表)
+n1trux/awesome-sysadmin: Github stars 10.3k (一份精选的开源系统管理资源列表)
 	<hr>
 	<p>
 		<p>
